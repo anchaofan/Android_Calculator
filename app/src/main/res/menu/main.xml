@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/changdu"
+        android:title="长度"/>
+    <item
+        android:id="@+id/tiji"
+        android:title="体积"/>
+    <item
+        android:id="@+id/jinzhi"
+        android:title="进制"/>
+</menu>

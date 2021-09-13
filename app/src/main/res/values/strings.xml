@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">计算器</string>
+    <string-array name="one">
+        <item>普通计算器</item>
+        <item>长度</item>
+        <item>体积</item>
+        <item>进制</item>
+    </string-array>
+    <string-array name="changdu">
+        <item>千米</item>
+        <item>米</item>
+        <item>分米</item>
+        <item>厘米</item>
+        <item>毫米</item>
+    </string-array>
+    <string-array name="tiji">
+        <item>立方米</item>
+        <item>立方分米</item>
+        <item>立方厘米</item>
+        <item>立方毫米</item>
+    </string-array>
+    <string-array name="jinzhi">
+        <item>请选择进制</item>
+        <item>二进制</item>
+        <item>八进制</item>
+        <item>十六进制</item>
+    </string-array>
+    <string-array name="shi">
+        <item>十进制</item>
+    </string-array>
+</resources>
